@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "258347979162",
+    "firebase_url": "https://onlymaavu.firebaseio.com",
+    "project_id": "onlymaavu",
+    "storage_bucket": "onlymaavu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258347979162:android:c0afbcaf41301274",
+        "android_client_info": {
+          "package_name": "com.example.onlymaavu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258347979162-67nrupjf8g4u19p8s2g7nbm26ocsist5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.onlymaavu",
+            "certificate_hash": "61a2322d8b4af67d7d14e8207b7ab658592d03de"
+          }
+        },
+        {
+          "client_id": "258347979162-1h3fjrbkob837tkn4gq3j5ef5g8f1coj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClmQEe_LesHqflnlE2L6ZwO-Ytp7TTlww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258347979162-1h3fjrbkob837tkn4gq3j5ef5g8f1coj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
